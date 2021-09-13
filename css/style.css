@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color: rgb(77, 161, 255);
+    width: 1024px;
+    height: 80px;
+    background-image: url("../img/logo.svg") ,url("../img/pattern.png");
+    background-repeat: no-repeat, repeat-x;
+    background-position: bottom left, top;
+    background-size: 18%, 30%;
+}
